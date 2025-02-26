@@ -1,0 +1,6 @@
+# Ignore private and public key files
+*.pem
+
+# Ignore object files and other compiled artifacts
+*.o
+*.out
